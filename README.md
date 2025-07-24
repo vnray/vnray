@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivekanand Ray</h1>
 <h3 align="center">A passionate frontend developer from Gurgaon</h3>
-
+<p><img src="https://camo.githubusercontent.com/bca955a442fa853f2f6c844d05d7943c5444f5fc3df368b91b1ba748cb4172c1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4b356b665145784b6b3733314b2f67697068792e676966"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnray&label=Profile%20views&color=0e75b6&style=flat" alt="vnray" /> </p>
 
 - 🔭 I’m currently working in [Travel Triangle](https://traveltriangle.com/)
